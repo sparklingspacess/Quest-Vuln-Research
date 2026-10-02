@@ -10,6 +10,8 @@ Research is being done solely on a Quest 3S (panther)
 ## Table of Contents
 
 - [Browser](#questBrowser)
+- [Working Root](#WorkingRootMethod02/10/26)
+
 
 <br>
 <br>
@@ -56,3 +58,6 @@ The Quest Browser has a lot of rules, most of them.. shouldn't be given to a bro
 `allow oculus_browser_app persist_cal_file:file` - Access to calibration files/data
 
 `allow oculus_browser_app system_cal_file:file` - Same as the one above
+
+## WorkingRootMethod02/10/26:
+*come back later*
