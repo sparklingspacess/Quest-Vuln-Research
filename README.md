@@ -12,7 +12,8 @@ Research is being done solely on a Quest 3S (panther)
 - [Browser](#questBrowser)
 
 
-##questBrowser
+
+## questBrowser
 The Quest Browser has a lot of rules, most of them.. shouldn't be given to a browser.
 # List of rules (hopefully exploitable):
 `allow oculus_browser_app shell_exec:file`
