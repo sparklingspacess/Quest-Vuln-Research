@@ -79,7 +79,8 @@ The Quest Browser has a lot of rules, most of them.. shouldn't be given to a bro
 <br>
 <br>
 
-##montereyBrowserUaf
+## montereyBrowserUaf
+
 This was initially discovered by Seunghyun Lee (@0x10n), Pwn2Own Vancouver 2024
 # Basic Summary:
 CVE-2024-2886 is a Use-After-Free in the WebCodecs API. Calling `copyTo()` on a *VideoFrame* and immediately calling `close()` creates a race where the async readback task accesses freed memory. On GPU-backed frames (created from a WebGL canvas), this is confirmed to trigger on Quest 1.
