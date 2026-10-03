@@ -90,6 +90,7 @@ Using varying WebGL colors per frame, the bytes returned by `copyTo()` after `cl
 <br>
 # Binary Analysis (libchrome.so)
 Path: */data/app/com.oculus.browser-PEEKvmlKNSWbcUjnSJMdLA==/lib/arm64/libchrome.so*
+
 BuildID: *f61a38a377e959b73e678fce921e86db5a9ac3e2*
 <br>
 # Vulnerable Function: 0x29357f4
