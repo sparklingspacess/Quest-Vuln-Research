@@ -119,4 +119,4 @@ The vtable dispatch at `0x29358d4` calls through `vtable[4]` of the freed *Video
 1. [ZDI-25-027](https://www.zerodayinitiative.com/advisories/ZDI-25-027/) - public advisory
 2. [Chromium Issue 330575496](https://issues.chromium.org/issues/330575496) - still restricted, but gave a lead anyway..
 3. Fix commit: `webcodecs: Disable async VideoFrame readback to mitigate a race`
-4. leesh3288 (@0x10n) — original discoverer, Pwn2Own Vancouver 2024
+4. leesh3288 (@0x10n) - original discoverer, Pwn2Own Vancouver 2024
